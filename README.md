@@ -11,3 +11,9 @@ in real life and I also have an internship on gaming application.
 - 📫 How to reach me: Instagram: diegodimetheo
 - ⚡ Fun fact: I'm a software developer and a business man
 -->
+<p align="left">
+<a href="https://github.com/inidiegooo">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=inidiegooo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=inidiegooo&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
